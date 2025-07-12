@@ -43,6 +43,7 @@ compareButton.addEventListener("click", function () {
         result.innerText = "Both numbers are equal";
     }
 });
+
 //reset button
 resetButton.addEventListener("click", function () {
   firstInput.value = "";
